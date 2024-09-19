@@ -1,0 +1,1 @@
+print("sveika pasaule")
